@@ -35,11 +35,11 @@ I'm a passionate Full-Stack Developer with a love for coding, problem-solving, a
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
 - **Backend Development:**  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=flat&logo=express&logoColor=white)
 
 - **Database Management:**  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 - **Version Control:**  
