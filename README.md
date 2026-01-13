@@ -56,7 +56,7 @@ I'm a passionate Full-Stack Developer with a love for coding, problem-solving, a
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VikramGujar&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=RushikeshVedpathak&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
 ---
@@ -64,11 +64,11 @@ I'm a passionate Full-Stack Developer with a love for coding, problem-solving, a
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramGujar&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshVedpathak&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikramGujar&show_icons=true&theme=radical" alt="Vikram's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh&show_icons=true&theme=radical" alt="Rushikesh's GitHub Stats">
 </div>
 
 <div align="center">
@@ -79,26 +79,16 @@ I'm a passionate Full-Stack Developer with a love for coding, problem-solving, a
 
 ### 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VikramGujar&theme=react-dark&hide_border=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RushikeshVepdathaktheme=react-dark&hide_border=true" alt="Contribution Graph">
 </p>
 
 ---
 
 ### 🚀 Notable Projects
 
-- **[Iron Man Tribute Page](https://love-you3000.netlify.app/)**  
-  A tribute page for Tony Stark (Iron Man) featuring a unique animation effect that displays "I'm Tony Stark" followed by "I'm IRON-MAN." The page also includes a lightning effect, color-changing animations, and creative use of CSS for an immersive experience.
 
-- **[Dance Academy Website](https://dance-acc.netlify.app/)**  
-  A full-featured website for a Dance Academy, showcasing services, awards, and a featured section with animations. The website is designed with a creative and consistent color theme, enhancing user engagement.
 
-- **[GitHub Profile README](https://github.com/VikramGujar/GitHub-Profile-README)**  
-  An informative and visually appealing GitHub profile README file that includes GitHub stats, top languages, and a detailed overview of my coding journey and skills.
-
-- **[C Language Notes](https://github.com/VikramGujar/C-Language-Notes)**  
-  Detailed notes on the C programming language, structured with tables, examples, and color-coded headings for easy learning. This project showcases my ability to create educational content that is both informative and accessible.
-
-Feel free to check out more on my [GitHub repositories](https://github.com/VikramGujar).
+Feel free to check out more on my [GitHub repositories](https://github.com/rushikeshvedpathak21/Rushikesh-Vedpathak/edit/main/README.md).
 
 ---
 
@@ -123,7 +113,7 @@ Feel free to check out more on my [GitHub repositories](https://github.com/Vikra
 ---
 
 ### 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/vikram-gujar-063614206/)
-- [Instagram](https://www.instagram.com/vikram_gujar_vg/)
-- [Netlify](https://app.netlify.com/teams/vikramgujar/sites)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-%231E1E2C.svg?style=flat&logo=firefox&logoColor=white)](https://vikram-gujar.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/rushikesh-vedpathak-56a96b234/)
+- [Instagram]()
+- [Netlify]()
+- [![Portfolio]()
