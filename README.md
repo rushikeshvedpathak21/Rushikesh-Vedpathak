@@ -36,6 +36,9 @@ I'm a passionate Full-Stack Developer with a love for coding, problem-solving, a
 
 - **Backend Development:**  
   ![Spring](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=flat)
+
   ![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=flat&logo=express&logoColor=white)
 
 - **Database Management:**  
